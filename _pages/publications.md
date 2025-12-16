@@ -10,12 +10,11 @@ permalink: /publications/
 
 Ventrucci, C., Fabiano, F., **Mehling, O.**, Bellomo, K., & Davini, P.: AMOC Weakening Shapes Ocean Heat Storage Patterns under Strong Idealized Warming. [ [preprint](https://essopenarchive.org/users/996315/articles/1356935-amoc-weakening-shapes-ocean-heat-storage-patterns-under-strong-idealized-warming) ]
 
-Hahn, L. C., Eisenman, I., Lutsko, N. J., Meccia, V., **Mehling, O.**, & Bellomo, K.: Large Uncertainty in Arctic Warming Driven by the Atlantic Meridional Overturning Circulation. Geophysical Research Letters, accepted. [ [preprint](https://essopenarchive.org/users/973909/articles/1341763-large-uncertainty-in-arctic-warming-driven-by-the-atlantic-meridional-overturning-circulation) ]
-
 Börner, R., **Mehling, O.**, von Hardenberg, J. & Lucarini, V.: Global stability of the Atlantic overturning circulation: Edge states, long transients and a boundary crisis under CO<sub>2</sub> forcing. Philosophical Transactions of the Royal Society A, accepted. [ [preprint](http://arxiv.org/abs/2504.20002) ]
 
 
 ### Peer-reviewed
+Hahn, L. C., Eisenman, I., Lutsko, N. J., Meccia, V., **Mehling, O.**, & Bellomo, K. (2025): Large Uncertainty in Arctic Warming Driven by the Atlantic Meridional Overturning Circulation. Geophysical Research Letters 52, e2025GL119720, doi: [10.1029/2025GL119720](https://doi.org/10.1029/2025GL119720) <img src="../images/access_open.svg" class="inline-icon" alt="[open access]" /> [&nbsp;[pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025GL119720)&nbsp;]
 
 **Mehling, O.**, Bellomo, K., & von Hardenberg, J. (2024): Centennial-Scale Variability of the Atlantic Meridional Overturning Circulation in CMIP6 Models Shaped by Arctic–North Atlantic Interactions and Sea Ice Biases. Geophysical Research Letters 51, e2024GL110791, doi: [10.1029/2024GL110791](https://doi.org/10.1029/2024GL110791) <img src="../images/access_open.svg" class="inline-icon" alt="[open access]" /> [&nbsp;[pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024GL110791)&nbsp;] [ [supplement](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2024GL110791&file=2024GL110791-sup-0001-Supporting+Information+SI-S01.pdf) ] [ [code](https://github.com/omehling/centennial-variability-CMIP6) ]
 
