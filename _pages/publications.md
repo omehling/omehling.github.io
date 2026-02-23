@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Preprints
+**Mehling, O.** & Dijkstra, H. A.: Weak 21st-century AMOC response to Greenland meltwater in a strongly eddying ocean model. [&nbsp;[preprint](http://arxiv.org/abs/2602.17235)&nbsp;]
+
 **Mehling, O.**, Vanderborght, E., & Dijkstra, H. A.: Critical freshwater forcing for AMOC tipping in climate models &ndash; compensation matters. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2025-6215)&nbsp;]
 
 **Mehling, O.**, Bellomo, K., Fabiano, F., Devilliers, M., Petrini, M., Corti, S., & von Hardenberg, J.: Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes. [&nbsp;[preprint](http://arxiv.org/abs/2509.24858)&nbsp;]
