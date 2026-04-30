@@ -16,4 +16,4 @@ The overarching goal of my research is to understand ocean circulation changes i
 
 My current research interests include the AMOC response to global warming and ice sheet melt, abrupt change/tipping dynamics of the AMOC, impacts of AMOC changes on the surface climate, and low-frequency AMOC variability. My work combines ocean and climate models of different complexity, from conceptual and intermediate-complexity models to state-of-the-art global climate models and -- most recently -- strongly eddying ocean models.<!-- Learn more about my research [here](/research/). -->
 
-Previously, I completed my PhD within the [CriticalEarth](https://criticalearth.eu) project at Politecnico di Torino (Italy) under the supervision of [Jost von Hardenberg](https://www.polito.it/en/staff?p=jost.hardenberg) and [Katinka Bellomo](https://katinkabellomo.com/).
+Previously, I completed my PhD within the [CriticalEarth](https://criticalearth.eu) project at Politecnico di Torino (Italy) under the supervision of [Jost von Hardenberg](https://www.polito.it/en/staff?p=jost.hardenberg) and Katinka Bellomo.

@@ -5,11 +5,13 @@ permalink: /publications/
 ---
 
 ### Preprints
+Swingedouw, D., et al. [incl. Mehling, O.]: TIPMIP-OCEAN experimental protocol phase 1: Tipping dynamics of the AMOC. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2026-1698)&nbsp;]
+
 **Mehling, O.** & Dijkstra, H. A.: Weak 21st-century AMOC response to Greenland meltwater in a strongly eddying ocean model. [&nbsp;[preprint](http://arxiv.org/abs/2602.17235)&nbsp;]
 
-**Mehling, O.**, Vanderborght, E., & Dijkstra, H. A.: Critical freshwater forcing for AMOC tipping in climate models &ndash; compensation matters. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2025-6215)&nbsp;]
+**Mehling, O.**, Vanderborght, E., & Dijkstra, H. A.: Critical freshwater forcing for AMOC tipping in climate models &ndash; compensation matters. Earth System Dynamics, accepted. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2025-6215)&nbsp;]
 
-**Mehling, O.**, Bellomo, K., Fabiano, F., Devilliers, M., Petrini, M., Corti, S., & von Hardenberg, J.: Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes. [&nbsp;[preprint](http://arxiv.org/abs/2509.24858)&nbsp;]
+**Mehling, O.**, Bellomo, K., Fabiano, F., Devilliers, M., Petrini, M., Corti, S., & von Hardenberg, J.: Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes. Science Advances, accepted. [&nbsp;[preprint](http://arxiv.org/abs/2509.24858)&nbsp;]
 
 Börner, R., **Mehling, O.**, von Hardenberg, J. & Lucarini, V.: Global stability of the Atlantic overturning circulation: Edge states, long transients and a boundary crisis under CO<sub>2</sub> forcing. Philosophical Transactions of the Royal Society A, accepted. [&nbsp;[preprint](http://arxiv.org/abs/2504.20002)&nbsp;]
 
