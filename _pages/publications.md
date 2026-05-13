@@ -9,14 +9,14 @@ Swingedouw, D., et al. [incl. Mehling, O.]: TIPMIP-OCEAN experimental protocol p
 
 **Mehling, O.** & Dijkstra, H. A.: Weak 21st-century AMOC response to Greenland meltwater in a strongly eddying ocean model. [&nbsp;[preprint](http://arxiv.org/abs/2602.17235)&nbsp;]
 
-**Mehling, O.**, Vanderborght, E., & Dijkstra, H. A.: Critical freshwater forcing for AMOC tipping in climate models &ndash; compensation matters. Earth System Dynamics, accepted. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2025-6215)&nbsp;]
-
 **Mehling, O.**, Bellomo, K., Fabiano, F., Devilliers, M., Petrini, M., Corti, S., & von Hardenberg, J.: Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes. Science Advances, accepted. [&nbsp;[preprint](http://arxiv.org/abs/2509.24858)&nbsp;]
 
 Börner, R., **Mehling, O.**, von Hardenberg, J. & Lucarini, V.: Global stability of the Atlantic overturning circulation: Edge states, long transients and a boundary crisis under CO<sub>2</sub> forcing. Philosophical Transactions of the Royal Society A, accepted. [&nbsp;[preprint](http://arxiv.org/abs/2504.20002)&nbsp;]
 
 
 ### Peer-reviewed
+**Mehling, O.**, Vanderborght, E., & Dijkstra, H. A.: Critical freshwater forcing for AMOC tipping in climate models &ndash; compensation matters. Earth System Dynamics 17, 563–579, doi: [10.5194/esd-17-563-2026](https://doi.org/10.5194/esd-17-563-2026) <img src="../images/access_open.svg" class="inline-icon" alt="[open access]" /> [&nbsp;[pdf](https://esd.copernicus.org/articles/17/563/2026/esd-17-563-2026.pdf)&nbsp;] [ [data](https://zenodo.org/records/19455023) ]
+
 Ventrucci, C., Fabiano, F., **Mehling, O.**, Bellomo, K., & Davini, P. (2026): AMOC Weakening Shapes Ocean Heat Storage Patterns Under Strong Idealized Warming. Geophysical Research Letters 53, e2025GL120405, doi: [10.1029/2025GL120405](https://doi.org/10.1029/2025GL120405) <img src="../images/access_open.svg" class="inline-icon" alt="[open access]" /> [&nbsp;[pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025GL120405)&nbsp;]
 
 Hahn, L. C., Eisenman, I., Lutsko, N. J., Meccia, V., **Mehling, O.**, & Bellomo, K. (2025): Large Uncertainty in Arctic Warming Driven by the Atlantic Meridional Overturning Circulation. Geophysical Research Letters 52, e2025GL119720, doi: [10.1029/2025GL119720](https://doi.org/10.1029/2025GL119720) <img src="../images/access_open.svg" class="inline-icon" alt="[open access]" /> [&nbsp;[pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025GL119720)&nbsp;]
