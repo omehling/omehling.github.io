@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Preprints
+Vanderborght, E., **Mehling, O.**, & Dijkstra, H. A.: Multi-stability of Atlantic and Pacific overturning: The role of Freshwater Forcing Asymmetries and the Hydrological Cycle. [&nbsp;[preprint](https://arxiv.org/abs/2605.15699)&nbsp;]
+
 Swingedouw, D., et al. [incl. Mehling, O.]: TIPMIP-OCEAN experimental protocol phase 1: Tipping dynamics of the AMOC. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2026-1698)&nbsp;]
 
 **Mehling, O.** & Dijkstra, H. A.: Weak 21st-century AMOC response to Greenland meltwater in a strongly eddying ocean model. [&nbsp;[preprint](http://arxiv.org/abs/2602.17235)&nbsp;]
