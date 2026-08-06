@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### Preprints
+**Mehling, O.**, Karami, M. P., Årthun, M., & Dijkstra, H. A.: Steady contribution of northern AMOC source regions under global warming in a high-resolution climate model. [&nbsp;[preprint](https://doi.org/10.22541/essoar.15007065/v1)&nbsp;]
+
 Vanderborght, E., **Mehling, O.**, & Dijkstra, H. A.: Multi-stability of Atlantic and Pacific overturning: The role of Freshwater Forcing Asymmetries and the Hydrological Cycle. [&nbsp;[preprint](https://arxiv.org/abs/2605.15699)&nbsp;]
 
 Swingedouw, D., et al. [incl. Mehling, O.]: TIPMIP-OCEAN experimental protocol phase 1: Tipping dynamics of the AMOC. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2026-1698)&nbsp;]
