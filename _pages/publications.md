@@ -5,11 +5,13 @@ permalink: /publications/
 ---
 
 ### Preprints
+Vito Vacca, A., Bellomo, K., **Mehling, O.**, von Hardenberg, J.: Non-linear atmospheric response to the North Atlantic Warming Hole intensity. [&nbsp;[preprint](https://doi.org/10.22541/essoar.15009487/v1)&nbsp;]
+
 **Mehling, O.**, Karami, M. P., Årthun, M., & Dijkstra, H. A.: Steady contribution of northern AMOC source regions under global warming in a high-resolution climate model. [&nbsp;[preprint](https://doi.org/10.22541/essoar.15007065/v1)&nbsp;]
 
 Vanderborght, E., **Mehling, O.**, & Dijkstra, H. A.: Multi-stability of Atlantic and Pacific overturning: The role of Freshwater Forcing Asymmetries and the Hydrological Cycle. [&nbsp;[preprint](https://arxiv.org/abs/2605.15699)&nbsp;]
 
-Swingedouw, D., et al. [incl. Mehling, O.]: TIPMIP-OCEAN experimental protocol phase 1: Tipping dynamics of the AMOC. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2026-1698)&nbsp;]
+Swingedouw, D., et al. [incl. Mehling, O.]: TIPMIP-OCEAN experimental protocol phase 1: Tipping dynamics of the AMOC. *Geoscientific Model Development*, accepted. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2026-1698)&nbsp;]
 
 ### Peer-reviewed
 **Mehling, O.** & Dijkstra, H. A.: Weak 21st-century AMOC response to Greenland meltwater in a strongly eddying ocean model. Geophysical Research Letters 53, e2026GL122545, doi: [10.1029/2026GL122545](https://doi.org/10.1029/2026GL122545) <img src="../images/access_open.svg" class="inline-icon" alt="[open access]" /> [&nbsp;[pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2026GL122545)&nbsp;] [&nbsp;[supplement](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2026GL122545&file=2026GL122545-sup-0001-Supporting+Information+SI-S01.pdf)&nbsp;] [&nbsp;[data](https://zenodo.org/records/20355645)&nbsp;]
