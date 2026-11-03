@@ -5,11 +5,13 @@ permalink: /publications/
 ---
 
 ### Preprints
-Vito Vacca, A., Bellomo, K., **Mehling, O.**, von Hardenberg, J.: Non-linear atmospheric response to the North Atlantic Warming Hole intensity. [&nbsp;[preprint](https://doi.org/10.22541/essoar.15009487/v1)&nbsp;]
-
 **Mehling, O.**, Karami, M. P., Årthun, M., & Dijkstra, H. A.: Steady contribution of northern AMOC source regions under global warming in a high-resolution climate model. [&nbsp;[preprint](https://doi.org/10.22541/essoar.15007065/v1)&nbsp;]
 
-Vanderborght, E., **Mehling, O.**, & Dijkstra, H. A.: Multi-stability of Atlantic and Pacific overturning: The role of Freshwater Forcing Asymmetries and the Hydrological Cycle. [&nbsp;[preprint](https://arxiv.org/abs/2605.15699)&nbsp;]
+Vasileiadis, N., **Mehling, O.**, van Westen, R. M., Dijkstra, H. A.:  A Prototype Probability Based Warning System for a Strong AMOC Decline. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2026-5755)&nbsp;]
+
+Vito Vacca, A., Bellomo, K., **Mehling, O.**, von Hardenberg, J.: Non-linear atmospheric response to the North Atlantic Warming Hole intensity. [&nbsp;[preprint](https://doi.org/10.22541/essoar.15009487/v1)&nbsp;]
+
+Vanderborght, E., **Mehling, O.**, & Dijkstra, H. A.: Multi-stability of Atlantic and Pacific overturning: The role of Freshwater Forcing Asymmetries and the Hydrological Cycle. *Journal of Physical Oceanography*, accepted. doi: [10.1175/JPO-D-26-0108.1](https://doi.org/10.1175/JPO-D-26-0108.1) [&nbsp;[preprint](https://arxiv.org/abs/2605.15699)&nbsp;]
 
 Swingedouw, D., et al. [incl. Mehling, O.]: TIPMIP-OCEAN experimental protocol phase 1: Tipping dynamics of the AMOC. *Geoscientific Model Development*, accepted. [&nbsp;[preprint](https://doi.org/10.5194/egusphere-2026-1698)&nbsp;]
 
